@@ -1,4 +1,4 @@
-# linkly
+# Lynkr
 
 A new Flutter project.
 
